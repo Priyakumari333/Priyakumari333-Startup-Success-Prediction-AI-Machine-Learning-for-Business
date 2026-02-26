@@ -1,0 +1,2 @@
+# Priyakumari333-Startup-Success-Prediction-AI-Machine-Learning-for-Business
+Supervised ML model predicting startup success using a 5,000-startup Kaggle dataset. Conducted EDA, engineered a custom Success_Flag variable, evaluated six classification algorithms (Logistic Regression, Decision Tree, Naïve Bayes, KNN, Random Forest, XGBoost), and validated Logistic Regression as the optimal model using Python.
