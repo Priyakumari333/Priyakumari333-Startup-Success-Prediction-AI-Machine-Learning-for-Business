@@ -210,17 +210,10 @@ Startup-Success-Prediction/
 │   └── global_startup_success_dataset.csv
 │
 ├── notebooks/
-│   ├── EDA.ipynb
-│   ├── Data_Preprocessing.ipynb
-│   └── Model_Training.ipynb
-│
-├── models/
-│   └── logistic_regression_model.pkl
+│   └── Group_11.ipynb
 │
 ├── reports/
-│   └── Project_Report.pdf
-│
-├── requirements.txt
+│   └── Group 11 Submission.pdf
 │
 └── README.md
 ```
